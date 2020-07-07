@@ -61,7 +61,7 @@ public class MenuConsultarAvanceController implements Initializable {
 
     @FXML
     private void regresar(ActionEvent event) {
-        System.out.println("NO SE GIT HUB");//GG
+        System.out.println("Modifico el mensaje jeje");//Atte Pale
     }
     
 }
