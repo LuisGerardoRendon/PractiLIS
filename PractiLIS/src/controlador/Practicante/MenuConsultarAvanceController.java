@@ -5,6 +5,7 @@
  */
 package Controlador.Practicante;
 //Otra modificacion 
+//No se cargo
 import java.net.URL;
 import java.util.ResourceBundle;
 import javafx.event.ActionEvent;
