@@ -5,7 +5,6 @@
  */
 package Controlador.Practicante;
 
-import com.sun.xml.internal.bind.v2.runtime.output.SAXOutput;
 import java.net.URL;
 import java.util.ResourceBundle;
 import javafx.event.ActionEvent;
@@ -68,9 +67,11 @@ public class MenuConsultarAvanceController implements Initializable {
         System.out.println("BY GERARDO");
         System.out.println("by pale");
         System.out.println("Modifico el mensaje jeje");//Atte Pale
-        System.out.println("No lo sé rick");
+        System.out.println("Hola jaja");
+        //jnh
         //BKSHJCBHKASBHK
         //HOLAAAA
+        //JAJA SHOLO L
     }
     
 }
