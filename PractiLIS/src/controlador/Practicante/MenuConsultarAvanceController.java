@@ -69,6 +69,7 @@ public class MenuConsultarAvanceController implements Initializable {
         System.out.println("by pale");
         System.out.println("Modifico el mensaje jeje");//Atte Pale
         System.out.println("Hola jaja");
+        System.out.println("sjlndosn");
         //jnh
         //BKSHJCBHKASBHK
         //HOLAAAA
