@@ -5,6 +5,8 @@
  */
 package Controlador.Practicante;
 
+import java.fxml.FXML;
+import java.util
 import java.net.URL;
 import java.util.ResourceBundle;
 import javafx.event.ActionEvent;
