@@ -60,14 +60,16 @@ public class MenuConsultarAvanceController implements Initializable {
     @Override
     public void initialize(URL url, ResourceBundle rb) {
         // TODO
-    }    
+    }  
+    private void funciono(){
+        System.out.println("GG si funciono");
+    }
 
     @FXML
     private void regresar(ActionEvent event) {
         //Prueba 5 para ver que hace
         System.out.println("OTRO COMENTARIO 7:01");
         System.out.println("Prueba 3");
-        System.out.println("BY GERARDO");
         System.out.println("by pale");
         System.out.println("Modifico el mensaje jeje");//Atte Pale
         System.out.println("Hola jaja");
@@ -76,6 +78,10 @@ public class MenuConsultarAvanceController implements Initializable {
         //BKSHJCBHKASBHK
         //HOLAAAA
         //JAJA SHOLO L
+    }
+    
+    private void probandoFunciones(){
+        System.out.println("GGG probando mi rama");
     }
     
 }
