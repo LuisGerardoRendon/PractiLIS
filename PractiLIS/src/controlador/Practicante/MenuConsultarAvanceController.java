@@ -61,6 +61,7 @@ public class MenuConsultarAvanceController implements Initializable {
 
     @FXML
     private void regresar(ActionEvent event) {
+        //Prueba 5 para ver que hace
         System.out.println("Prueba 3");
         System.out.println("BY GERARDO");
         System.out.println("by pale");
